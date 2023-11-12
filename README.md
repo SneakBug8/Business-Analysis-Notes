@@ -1,5 +1,7 @@
 # BCS Foundation Certificate in Business Analysis  
 
+[Check out also](https://github.com/SneakBug8/Cheat-Sheets)
+
 ### Objectives:  
 To understand the following:  
 - the role and competencies of a business analyst
